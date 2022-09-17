@@ -5,12 +5,19 @@ A simple computer vision application that uses deep learning to classify images.
 This application was created in the programming language python.
 
 ![Screenshot](other_images/acc1.PNG)
+
 ![Screenshot](other_images/acc2.PNG)
+
 ![Screenshot](other_images/acc3.PNG)
+
 ![Screenshot](other_images/check1.PNG)
+
 ![Screenshot](other_images/check2.PNG)
+
 ![Screenshot](other_images/check3.PNG)
+
 ![Screenshot](other_images/check4.PNG)
+
 ![Screenshot](other_images/check5.PNG)
 
 # References
